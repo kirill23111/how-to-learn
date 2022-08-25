@@ -1,0 +1,9 @@
+.table__cell_theme_dark {
+  width: 200px;
+  position: relative;
+  z-index: 1;
+  margin-right: 0;
+  color: white;
+  margin-left: 0;
+}
+
