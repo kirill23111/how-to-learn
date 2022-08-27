@@ -5,6 +5,9 @@
   font-weight: normal;
   padding: 0;
   color: white;
-  padding-right: 10px;
   text-decoration: none;
+}
+
+.footer__column-link:hover {
+  opacity: .2;
 }
