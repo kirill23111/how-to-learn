@@ -1,4 +1,5 @@
 .table__cell {
   width: 250px;
   list-style-type: none;
+  padding-top: 60px;
 }
